@@ -1,2 +1,2 @@
 # actions_template
-Templates for githubactions
+Templates for github/gitlab actions
